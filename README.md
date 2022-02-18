@@ -1,4 +1,6 @@
-# This Repo contains Terraform configuration which is deploying a web application on AWS. The supporting infrastructure includes a VPC, Public and Private subnets, load balancer, and EC2 instances
+# This Repo contains Terraform configuration which is deploying a web application on AWS.
+
+The supporting infrastructure includes a VPC, Public and Private subnets, load balancer, and EC2 instances
 
 Overview of the infrastructure 
 
@@ -60,3 +62,4 @@ Respond to the confirmation prompt with a yes to create the example infrastructu
 ```
 terraform destroy
 ```
+Respond to the confirmation prompt with a yes to create the example infrastructure.
