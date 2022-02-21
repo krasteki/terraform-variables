@@ -1,5 +1,7 @@
 # This Repo contains Terraform configuration which is deploying a web application on AWS.
 
+This repo is based on [HashiCorp learning guide](https://learn.hashicorp.com/tutorials/terraform/variables?in=terraform/configuration-language).
+
 The supporting infrastructure includes a VPC, Public and Private subnets, load balancer, and EC2 instances
 
 Overview of the infrastructure 
